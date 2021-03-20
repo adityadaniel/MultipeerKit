@@ -6,5 +6,4 @@ Pod::Spec.new do |s|
   s.license                   = { :type => 'BSD-2', :file => 'LICENSE' }
   s.authors                   = { 'Guilherme Rambo' => 'insidegui@gmail.com' }
   s.source_files              = 'Sources/**/*.swift'
-  s.swift_versions            = ['5']
 end
